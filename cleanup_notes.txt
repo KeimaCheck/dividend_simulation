@@ -1,0 +1,7 @@
+reorganize into three files
+--part that scrapes data/produces parameters
+--part that performs simulation
+--part that calls above two parts and feeds parameters to simulation
+organize pre-prepared save data
+add fuller commentary
+clean up errors

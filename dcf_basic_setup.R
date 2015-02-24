@@ -15,6 +15,7 @@ for (i in 1:60){
  gbms[[i]] <- adjust_for_dividend(dat_gbm,P[2,js[i]],i)
 }
 
+# from here we can roughly replace this with the content of dcf_basic_iter
 
 portfolio <- numeric(60)
 pf_chart <- numeric(T)

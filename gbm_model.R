@@ -5,6 +5,5 @@ mu = params[3]
 sig = params[4]
 # and running for t days
 
-dat_ts = GBM(S_0,r=mu,sigma=sig,T=t,N=t)
-
+GBM(S_0,r=mu,sigma=sig,T=t,N=t)
 }

@@ -1,0 +1,6 @@
+possible continuations
+allow for more intricate data and use of data sources other than S&P
+implement different stock models
+model more sophisticated trading styles
+run simulation on actual stock data rather than model data
+run simulation in "real" time
