@@ -1,3 +1,5 @@
+Just something I wrote when I should have been doing homework. "I wonder what happens if I take enough assumptions that this entire thing can be written in 20 minutes and then do just that."
+
 objective: model a hypothetical fund owning a large number of dividend-paying 
 securities and collecting dividends on a daily basis
 
